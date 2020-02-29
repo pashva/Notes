@@ -1,4 +1,4 @@
-# sqltry
+# Note Application
 
 A new Flutter application.
 
